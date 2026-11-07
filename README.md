@@ -8,4 +8,6 @@ no build step.
 - `privacy.html`: privacy policy (the stores' "Privacy Policy URL")
 - `support.html`: support, FAQ, terms and credits (App Store "Support URL")
 - `img/`: screenshots, icon and share image, from the app repo's `test_gallery/out/` (JPEG, 1600 px wide)
+- `video/frelard-feelings.mp4` and `img/ad-*.jpg`: the one-minute video and its stills, filmed from the real game by the app
+  repo's `test_gallery/ad_test.dart` and encoded by `tool/make_ad.py`
 - `fonts/`: Fredoka (SIL Open Font License), self-hosted so the site loads nothing from third parties
